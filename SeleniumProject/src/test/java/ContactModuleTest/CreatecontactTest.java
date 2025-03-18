@@ -28,4 +28,11 @@ public class CreatecontactTest {
 		System.out.println("execute modify contact Test");
 	}
 
+@Test
+
+public void DeletecontactTest() {
+	
+	System.out.println("execute modify contact Test");
+}
+
 }
